@@ -12,7 +12,7 @@ Activity and Excercise Compilation for ITEC 106<br>
 <li> <a href="2A_AGOJO_MIDTERM.ipynb"> Midterms </a> </li>
 </ul>
 <br>
-<h1> Visitor Logs</h1>
+<h1> Visitor Logs </h1>
 Used for a Group Activity centerd around investigation of theft. <br> <br>
 <h1> Student Performance </h1>
 An activity that uses Logistic Regression to predict student performance in math exams. <br> <br>
